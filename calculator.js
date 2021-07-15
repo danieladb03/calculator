@@ -1,3 +1,9 @@
 class Calculator {
-	// implementation
+	sum() {
+		// sum something
+	}
+
+	subtract() {
+		// subtract somthing
+	}
 }
